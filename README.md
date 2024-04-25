@@ -72,7 +72,3 @@ The objective of this project is to create a simple online store using HTML and 
 
 - Regular communication among team members is crucial for ensuring consistency and compatibility across different pages.
 - Encourage code reviews and feedback sessions to maintain code quality and consistency.
-
----
-
-Feel free to modify the instructions or add more details as needed for your specific project. Let me know if you need further assistance!
