@@ -1,6 +1,4 @@
-Got it! Here's the updated README.md with added objects and semantic HTML elements:
 
----
 
 # Simple Online Store Project
 
